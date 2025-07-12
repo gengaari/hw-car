@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "model": "Tesla Model S",
+    "color": "Red",
+    "price": "$85,000",
+    "manufacturer": "Tesla",
+    "photo": "https://media.carsandbids.com/cdn-cgi/image/width=2080,quality=70/f0821b1ed59c0109b31c6dd830138ecb071c78df/photos/rkgb1zBO-omsOtFL901-(edit).jpg?t=169145992822"
+  },
+  {
+    "id": "2",
+    "model": "BMW i8",
+    "color": "White",
+    "price": "$140,000",
+    "manufacturer": "BMW",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCR9hnYMAPwJc_Adaz9HrdBRJPQ4TKqg0WRg&s"
+  },
+  {
+    "id": "3",
+    "model": "Audi R8",
+    "color": "Black",
+    "price": "$160,000",
+    "manufacturer": "Audi",
+    "photo": "https://smgmedia.blob.core.windows.net/images/113814/1024/audi-r8-coupe-99ec87fb1056.jpg"
+  },
+  {
+    "id": "4",
+    "model": "Porsche 911",
+    "color": "Blue",
+    "price": "$120,000",
+    "manufacturer": "Porsche",
+    "photo": "https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_240,q_auto:good,w_385/kpjpk6syexcbruz7gasd.jpg"
+  },
+  {
+    "id": "5",
+    "model": "Mercedes AMG GT",
+    "color": "Silver",
+    "price": "$130,000",
+    "manufacturer": "Mercedes",
+    "photo": "https://vehicle-images.dealerinspire.com/10a0-11000427/W1KRJ7JB5SF005620/09cae414d9a5861280a1b8dcfca3b8e4.jpg"
+  }
+]
